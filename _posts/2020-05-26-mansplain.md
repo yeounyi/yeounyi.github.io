@@ -93,14 +93,14 @@ prop.test(x = x,n = n,alternative = c("two.sided"), conf.level = 0.95)
 ### 3.1. Based on speakers' gender 
 
 <br>
-<img src="https://github.com/yeounyi/yeounyi.github.io/blob/master/assets/img/speaker.jpg?raw=true" width=800>
+<img src="https://github.com/yeounyi/yeounyi.github.io/blob/main/assets/img/speaker.jpg?raw=true" width=800>
 <br>
 
  The graph shows the proportion of information structure usage based on speakers' gender. Blue bar represents female speakers and red one represents male speakers. The first column shows the proportion where speakers assume both they themselves and listeners don't know well about the new information. The second column shows the proportion where speakers assume only the speakers know the new information. The last one shows the proportion where speakers assume both speakers and listeners know the new information. It turns out <b>male speakers tend to assume they're the only one who know the new information *(normative information structure)* and female speakers tend to assume listeners also know the new information *(strategic information structure)*.</b> The p-value was lower than 0.1. 
 
 ### 3.2. Based on listeners' gender 
 <br>
-<img src="https://github.com/yeounyi/yeounyi.github.io/blob/master/assets/img/listener.jpg?raw=true" width=800>
+<img src="https://github.com/yeounyi/yeounyi.github.io/blob/main/assets/img/listener.jpg?raw=true" width=800>
 <br>
 
  The graph shows the proportion of information structure usage based on listener' gender. Blue bar represents female listeners and red one represents male listeners. The first column shows the proportion where speakers assume both they themselves and listeners don't know well about the new information. The second column shows the proportion where speakers assume only the speakers know the new information. The last one shows the proportion where speakers assume both speakers and listeners know the new information. It turns out <b>when speakers use *normative information structure*, listeners tend to be female, but when speakers use *strategic information structure* listeners tend to be male.</b> P-value was not small enough to be significant, because listeners' gender were identified only in the one-on-one conversation, naturally shrinking the data size. Still, it seems interesting that the pattern was reversed compared to the analysis based on speakers' gender.  
