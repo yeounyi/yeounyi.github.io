@@ -1,0 +1,85 @@
+- name: How to name your crowdfunding projects? 
+  id: p1
+  main_link: /
+  img_src: /assets/img/brain.png
+  description_less: >
+    <p> Analyzed korean crowdfunding projects' names and their success rates </p>
+  description_more: >
+    <p>Analyzed a brain wave named N400 to compare the effectiveness</p>
+
+    <a href="https://github.com/yeounyi/Tumblbug-Anlaysis" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://yeounyi.github.io/2019/06/01/naming.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+
+  tags: >
+    <span class="badge badge-info">#advertising</span>
+    <span class="badge badge-success">#marketing</span>
+    
+- name: >
+    There's something about Netflix: Descriptions of their films  
+  id: p2
+  main_link: /
+  img_src: /assets/img/netflix.png
+  description_less: >
+    <p> Compared the descriptions of the same film in Netflix and <a href="https://naver.com/" target="_blank">Naver</a>, the biggest web portal in Korea </p>
+
+    <a href="https://github.com/yeounyi/Netflix-VS-Naver-Synopses" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://yeounyi.github.io/2019/11/20/netflix.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+
+  tags: >
+    <span class="badge badge-info">#advertising</span>
+    <span class="badge badge-success">#marketing</span>
+    
+- name: Finding "Mansplaining" in korean spoken corpus 
+  id: p3
+  main_link: /
+  img_src: /assets/img/mansplain.png
+  description_less: >
+    <p> Compared the use of verb endings, which implicate speakers' guess about listeners' knowledge, based on gender </p>
+  description_more: >
+    <p> Used <a href="https://ithub.korean.go.kr/user/guide/corpus/guide1.do" target="_blank">세종구어말뭉치</a>, Korean Corpus from National Institute of the Korean Language</p>
+
+    <a href="https://github.com/yeounyi/KoreanSpokenCorpusAnalysis" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://yeounyi.github.io/2020/05/26/mansplain.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+
+  tags: >
+    <span class="badge badge-info">#gender</span>
+    <span class="badge badge-success">#sociolinguistics</span>
+    
+- name: Write hangul with alphabets! 
+  id: p4
+  main_link: /
+  img_src: /assets/img/app.png
+  description_less: >
+    <p> Write korean letter "hangul" using alphabets that look alike hangul </p>
+  description_more: >
+    <a href="https://github.com/yeounyi/hangul2alphabet" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://share.streamlit.io/yeounyi/hangul2alphabet/main/app.py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Website</a>
+  tags: >
+    <span class="badge badge-info">#meme</span>
+    <span class="badge badge-success">#hangul</span>
+    
+- name: Let computers write advertising slogans 📺
+  id: p5
+  main_link: /
+  img_src: /assets/img/slogan.png
+  description_less: >
+    <p> Generate slogans with a given keyword and its sound-alike partner </p>
+  description_more: >
+    <a href="https://github.com/yeounyi/GenerateSlogan" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://yeounyi.github.io/2021/02/23/model.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: >
+    <span class="badge badge-info">#advertising</span>
+    <span class="badge badge-success">#marketing</span>
+    
+- name: Solve Korean Anagrams! 🕵️‍♀️
+  id: p6
+  main_link: /
+  img_src: /assets/img/ana.png
+  description_less: >
+    <p> Find all possible anagrams given korean words  </p>
+  description_more: >
+    <a href="https://github.com/yeounyi/AnagramApp" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://share.streamlit.io/yeounyi/anagramapp/main/app.py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Website</a>
+  tags: >
+    <span class="badge badge-info">#meme</span>
+    <span class="badge badge-success">#hangul</span>
