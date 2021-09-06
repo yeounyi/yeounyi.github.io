@@ -89,7 +89,7 @@
   main_link: /
   img_src: /assets/img/jjalang.png
   description_less: >
-    <p> An Andrioid/iOS App to keep track of your savings that you might have forgotten </p>
+    <p> An Android / iOS App to keep track of your savings that you might have forgotten </p>
   description_more: >
     <a href="https://play.google.com/store/apps/details?id=io.jjalang.chagok" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Android </a>
     <a href="https://apps.apple.com/kr/app/%EC%A7%A4%EB%9E%91%EC%B0%A8%EA%B3%A1/id1582412627" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp iOS </a>
