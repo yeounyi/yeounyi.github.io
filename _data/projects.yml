@@ -61,7 +61,7 @@
 - name: Let computers write advertising slogans 📺
   id: p5
   main_link: /
-  img_src: /assets/img/slogan.png
+  img_src: /assets/img/new-slogan.png
   description_less: >
     <p> Generate slogans with a given keyword and its sound-alike partner </p>
   description_more: >
