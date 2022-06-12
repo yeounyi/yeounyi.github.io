@@ -26,6 +26,14 @@ defaults:
       listed: true
       author: Yeoun Yi
       author_link: <a href="https://yeounyi.github.io">Yeoun Yi<a>
+   -
+    scope:
+      path: _TIL
+    values:
+      comments: true
+      listed: true
+      author: Yeoun Yi
+      author_link: <a href="https://yeounyi.github.io">Yeoun Yi<a>
   -
     scope:
       path: pages/redirects
