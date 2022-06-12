@@ -58,12 +58,12 @@
     <span class="badge badge-info">#meme</span>
     <span class="badge badge-success">#hangul</span>
     
-- name: Let computers write advertising slogans 📺
+- name: Let computers write rhyming slogans 📺
   id: p5
   main_link: /
   img_src: /assets/img/new-slogan.png
   description_less: >
-    <p> Generate slogans with a given keyword and its sound-alike partner </p>
+    <p> Generate slogans with phonetic & syntactic repetitions </p>
   description_more: >
     <a href="https://github.com/yeounyi/LexPOS" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://yeounyi.github.io/2021/05/08/model.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
