@@ -19,7 +19,7 @@ tags: data analysis
 <br>
 <br>
 <h2> 1. 운동 철학(Philosophy) </h2>
-
+<br>
 모든 선수들의 운동 철학을 하나의 텍스트로 합치고, [Spacy](https://spacy.io/api/lemmatizer)를 이용해 표제어로 변형한 뒤(lemmatization) N-gram을 구했습니다. N-gram이란, N개의 연속적인 단어 나열을 말하는데, 이를 이용하면 단순히 한 단어의 빈도수를 구하는 것보다 의미있는 결과를 얻을 수 있습니다. 저는 Bigram(2개의 연속적인 단어 나열)과 Trigram(3개의 연속적인 단어 나열)을 선택했고, 이를 빈도수대로 정렬하면 다음과 같습니다.
 
 <br><br>
@@ -54,7 +54,7 @@ tags: data analysis
 * _**Republic of Moldova**: I would say we have special abilities, skills that others do not use. (우리는 다른 사람들이 쓰지 않는 특별한 재능을 가졌다.)_
 
 <h2>2. 목표(Ambition)</h2>
-
+<br>
 이번에도 모든 선수들의 목표를 하나의 텍스트로 합치고, Spacy를 이용해 표제어로 변형한 뒤(lemmatization) N-gram을 구했습니다. 운동 철학과 달리, 목표는 선수들간의 차이가 적고 중복이 매우 많았습니다.
 <br><br>
 <img src="https://github.com/yeounyi/yeounyi.github.io/blob/main/assets/img/paralympics/p05.jpeg?raw=true" width=800>
@@ -74,7 +74,7 @@ word tree 시각화 결과는 다음과 같습니다. 선수들의 목표가 운
 * _To win a medal at the 2020 Paralympic Games in Tokyo, to set a world record, and to compete at the 2024 Paralympic Games in Paris. (2020 도쿄 패럴림픽에서 메달을 따고, 세계 신기록을 세우고, 2024 파리 패럴림픽에 출전하는 것)_
 
 <h2>3. 롤모델(Hero) </h2>
-
+<br>
 텍스트로 이루어진 운동 철학이나 목표와 달리, 롤모델 항목은 롤모델들의 리스트로 이루어져 있습니다. 따라서 전체 선수들의 롤모델 순위뿐만 아니라, 국적, 성별, 종목별 롤모델의 순위를 분석해보았습니다. 
 <br>
 먼저 전체 선수들의 롤모델 순위입니다. 미국의 수영 선수 마이클 팰프스와 자메이카의 육상 선수 우사인 볼트가 압도적인 비율로 1,2위를 차지했습니다. 4위와 10위를 차지한 선수들의 아버지, 어머니도 눈에 띕니다. 롤모델을 지목한 선수가 남성인 경우 'His'를, 여성인 경우 'Her'를 쓰는데, 아버지를 롤모델로 지목한 선수는 여성보다 남성 선수가 많았고 반대로 어머니를 지목한 선수는 남성보다 여성 선수가 많았다는 점이 흥미롭습니다. 또한, 하늘색으로 표시한 선수는 패럴림픽에 출전하는 선수입니다. 영국의 패럴림픽 수영 선수 엘리 시몬즈, 브라질의 패럴림픽 수영 선수 다니엘 디아즈가 순위권에 들었습니다.
